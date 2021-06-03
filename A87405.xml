@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from Norvvich vvherein is declared hovv the Earle of Lindsey endeavoured to raise a party against the Parliament in severall parts of that county, as Yarmouth, Thetford, Linne, Atle Burrow, Downam. And many other places in the said county, but being opposed by the welaffected Protestants of the said county, they were forced to fly some of them being imprisoned, and sent up to the Parliament, and by them committed to gate house. Likewise, exceeding joyfull newes from Cobham-Hall in Kent, wherein is declared how Serjeant Major Shipton hath taken 5 waggons of ammunition, one coach full of money and plate, which was brought to Guild-Hall on Monday last the 15 of August, 1642. Ordered to be printed, Hen. Elsing. Cler. Parl.</title>
+            <title>Joyfull newes from Norwich.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87405</idno><idno type="EEBO-CITATION">99860791</idno>
+  <idno type="VID">156004</idno>
+  <idno type="EEBO-PROQUEST">2240883892</idno>
+  
+            <idno type="STC">Wing J1140</idno>
+            <idno type="STC">Thomason E112_16</idno>
+            <idno type="STC">ESTC R19956</idno>
+            <idno type="PROQUEST">99860791</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860791e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156004)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from Norvvich vvherein is declared hovv the Earle of Lindsey endeavoured to raise a party against the Parliament in severall parts of that county, as Yarmouth, Thetford, Linne, Atle Burrow, Downam. And many other places in the said county, but being opposed by the welaffected Protestants of the said county, they were forced to fly some of them being imprisoned, and sent up to the Parliament, and by them committed to gate house. Likewise, exceeding joyfull newes from Cobham-Hall in Kent, wherein is declared how Serjeant Major Shipton hath taken 5 waggons of ammunition, one coach full of money and plate, which was brought to Guild-Hall on Monday last the 15 of August, 1642. Ordered to be printed, Hen. Elsing. Cler. Parl.</title>
+                  <title>Joyfull newes from Norwich.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Rider,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 17. 16426 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Early works to 1800.</term>
+               <term type="personal_name">Shippon, Philip, d. 1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Norwich (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Thetford (Norfolk) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Yarmouth (Norfolk) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156004:1"/>
+            <p> Joyfull Nevves FROM NORVVICH VVherein is declared hovv the Earle of <hi>Lindsey</hi> endeavoured to raise a party against the <hi>Parliament</hi> in severall parts of that County, As
+<list>
+                  <item>Yarmouth,</item>
+                  <item>Thetford,</item>
+                  <item>Linne,</item>
+                  <item>Atle Burrow,</item>
+                  <item>Downam.</item>
+               </list>
+            </p>
+            <p>And many other places in the said County, but being opposed by the welaf<g ref="char:EOLhyphen"/>fected Protestants of the said County, they were forced to fly some of them being imprisoned, and sent up to the <hi>Parliament,</hi> and by them com<g ref="char:EOLhyphen"/>mitted to Gate-house.</p>
+            <p>Likewise, exceeding joyfull Newes from <hi>Cobham-Hall</hi> in <hi>Kent,</hi> Wherein is declared how Serjeant Major <hi>Shipton</hi> hath taken 5 waggons of Ammunition, one Coach full of money and plate, which was brought to Guild-Hall on Monday last the 15 of August, 1642.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be printed,</p>
+                        <closer>
+                           <signed>Hen. Elsing. Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>T. Rider, Aug.</hi> 17. 16426.</p>
+            <pb facs="tcp:156004:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:156004:2"/>
+            <head>Ioyfull Nevves from NORVVICH.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Earle of <hi>Lind<g ref="char:EOLhyphen"/>sey</hi> having ever since the beginning of this <hi>Parliament,</hi> been very active in his plots and de<g ref="char:EOLhyphen"/>signes against the <hi>Parliament,</hi> and so consequently against the peace of the Kingdom; first, in his practises against <hi>Hull</hi> and Sir <hi>John Hothon.</hi> Se<g ref="char:EOLhyphen"/>condly, against the Earle of <hi>Warwick</hi>
+               <pb n="4" facs="tcp:156004:3"/> using many many malignant endea<g ref="char:EOLhyphen"/>vours to seduce the people of the County of <hi>York</hi> to make breach of their allegiance to his <hi>Majesty</hi> in per<g ref="char:EOLhyphen"/>swading them to take armes against his <hi>Majesty</hi> underpretence of stan<g ref="char:EOLhyphen"/>ding for him. Thirdly, in councel<g ref="char:EOLhyphen"/>ling his <hi>Majesty</hi> to ingage himselfe in a war against his <hi>Parliament,</hi> to the utter confusion of the peace of the Kingdom and the ruine, and almost inevitable destruction of his <hi>Majesty</hi> and Royall posterity. Likewise in causing them to make breach of their duties to the <hi>Parliament</hi> to whom they had resign'd al power &amp; to whō they had promised to stand close, a<g ref="char:EOLhyphen"/>nimating them on, severall <hi>Petitions,</hi> promising them to hazard their lives and fortunes in their defence, that
+<pb n="5" facs="tcp:156004:3"/> by the seducement of the said Earle they are misled, and have taken armes (as is feared) to be imployed against the <hi>Parliament.</hi> And as in <hi>Yorshire,</hi> so he still persists in prosecu<g ref="char:EOLhyphen"/>tion of his dishonorable practises for in <hi>Norfolk,</hi> he by his ministers hath endeavoured to raise a party in seve<g ref="char:EOLhyphen"/>ral eminent places of the said Coun<g ref="char:EOLhyphen"/>ty as <hi>Norwich, Atleborrow, Yarmouth, Linne, Thetford, Downam</hi> and many other places in the said County.</p>
+            <p>VVhich ministers of his promi<g ref="char:EOLhyphen"/>sed great reward to those that would be assistant to their designe, but the inhabitants of the said County that were well affected knowing the great Detriment that such actions might bee to the proceedings
+<pb n="6" facs="tcp:156004:4"/> of <hi>Parliament,</hi> and the peace of the King<g ref="char:EOLhyphen"/>dome they thought it best to take a speedy course to prevent such a growing danger wherefore they cald the aforesaid Officers to question, demanding whether they had Au<g ref="char:EOLhyphen"/>thority from the <hi>Parliament</hi> to doe what they had done: who endeavoured to put them off with faire excuses and the like, from whence they gather'd that their designe was counter<g ref="char:EOLhyphen"/>feit and not warrantable.</p>
+            <p>Wherefore they seized on them carried them before the Major, who after their examina<g ref="char:EOLhyphen"/>tion (which was that they was impeached by the Earle of <hi>Lindsey)</hi> they were commit<g ref="char:EOLunhyphen"/>ted to custody, and a Messenger dispatched to the <hi>Perliament,</hi> to certifie of their procee<g ref="char:EOLhyphen"/>dings.</p>
+            <p>Which the Lords and Commons taking into consideration, caused them to be brought before them, who having examined them sent them to the Gatehouse, where they remaine till that they shall have time to passe a censure upon them suiting their de<g ref="char:EOLhyphen"/>sert; likewise the Gentry and Commonalty
+<pb n="7" facs="tcp:156004:4"/> of <hi>Norfolke</hi> are resolved to stand firme for the <hi>Parliament,</hi> against the malignant party of this Kingdome, the Kings safety, the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> Security and Kingdomes future Peace, and blessed prosperity, and of the Kingdome depending on the proceedings of this <hi>Parli<g ref="char:EOLhyphen"/>ament.</hi>
+            </p>
+            <p>Also the blest injoyment of the true Prote<g ref="char:EOLhyphen"/>stant Religion, and all that is neere or deare unto us, our wives, children, the inheritance of our Fore-fathers being all destined to ut<g ref="char:EOLhyphen"/>ter ruine, and destruction by the malignant party of this Kingdome, who doe daily en<g ref="char:EOLhyphen"/>deavour to confound this <hi>Parliament,</hi> and by that meanes to take away all possibilitie of our ever redeeming our selves from living under an arbitrary government.</p>
+            <p>Also the Lords and Commons doe declare that all their endeavours tend to the prever<g ref="char:EOLhyphen"/>sion of the sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d designes, and to establish a peaceable and quiet government in this Kingdome, a true settlement of Religion, and the mainteanance of the Antient Lawes and liberties of the Subject.</p>
+            <pb n="8" facs="tcp:156004:5"/>
+            <p> Newes being brought to the High Court of <hi>Parliament,</hi> that there was great store of Ammunition at <hi>Cobham-Hall</hi> in <hi>Kent</hi> for some private designes, they appointed Serjeant Major <hi>Skipton</hi> to elect a sufficient Guard of Musketeeres and Horse, and to goe to see whether those informations given were true, who being arrived there, found five wagons of Ammunition, of all sorts, as Pikes, Musquets Pettronells, and one wagon of money, which they ceised on the keeper of <hi>Cobham▪Hall,</hi> fled to a Town three miles off, but they pursued Him and tooke him whome they have brought up to <hi>London</hi> to bee examined, what designe these. Armes were provided for.</p>
+            <p>These Waggons were brought from <hi>Cob<g ref="char:EOLhyphen"/>ham-Hall</hi> in <hi>Kent</hi> by Serjeant Major <hi>Skipton</hi> to <hi>Guild Hall</hi> on Monday the 15. of <hi>August</hi> 1642. there to be kept for the <hi>Parliaments</hi> use.</p>
+            <p>God grant that all those that digg pitts for the <hi>Parliament</hi> may like these conspirators fall therein themselves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
